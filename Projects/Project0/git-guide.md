@@ -46,7 +46,9 @@ In your repo for this course, create a file named `git-guide.md`. In this file, 
 ## git files & folders
 
 - .git folder
+  - Contains information that is necessary for the project and all information relating commits, remote repository address, etc. 
 - .gitignore file
+  - Lists intentionally untracked files to ignore 
 - ~~.git/hooks~~
 
 ## GitHub
