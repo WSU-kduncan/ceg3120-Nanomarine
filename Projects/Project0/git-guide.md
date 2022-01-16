@@ -20,6 +20,8 @@ In your repo for this course, create a file named `git-guide.md`. In this file, 
   - Used to remove tracked files from the Git index  
   - `git rm`
 - commit
+  - Captures a snapshot of currently staged changes
+  -  `git commit -m "message"` 
 - push
 - fetch
 - merge
