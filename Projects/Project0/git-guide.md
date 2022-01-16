@@ -35,7 +35,11 @@ In your repo for this course, create a file named `git-guide.md`. In this file, 
   - Used to copy a remote repository to your local repository
   - `git pull *repository*`
 - branch
+  - Used to manage branches
+  - `git branch`
 - checkout
+  - Used to switch branches and restore working tree files
+  - `git checkout *branch*`
 - ~~init~~
 - ~~remote~~
 
