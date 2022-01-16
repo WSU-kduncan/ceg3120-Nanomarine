@@ -32,6 +32,8 @@ In your repo for this course, create a file named `git-guide.md`. In this file, 
   - Used to join multiple development histories together.
   - `git merge *branch name*`
 - pull
+  - Used to copy a remote repository to your local repository
+  - `git pull *repository*`
 - branch
 - checkout
 - ~~init~~
