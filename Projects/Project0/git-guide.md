@@ -54,7 +54,9 @@ In your repo for this course, create a file named `git-guide.md`. In this file, 
 ## GitHub
 
 - Pull requests
+  - An event in Git where a contributor asks a maintainer of a Git repository to review code they want to merge into a project.
 - SSH authentication to repositories
+  - Used to maintain the security of repositories
 - ~~Actions~~
 
 ## Resources
