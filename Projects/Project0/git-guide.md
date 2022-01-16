@@ -23,7 +23,11 @@ In your repo for this course, create a file named `git-guide.md`. In this file, 
   - Captures a snapshot of currently staged changes
   -  `git commit -m "message"` 
 - push
+  - Uploads local content to remote repository
+  - `git push`  
 - fetch
+  - Downloads commits, files, and refs from a remote repository into your local repository.
+  -  `git fetch` 
 - merge
 - pull
 - branch
