@@ -17,6 +17,8 @@ In your repo for this course, create a file named `git-guide.md`. In this file, 
   - Used to add file that will be pushed to repo
   - `git add *filename*` 
 - rm
+  - Used to remove tracked files from the Git index  
+  - `git rm`
 - commit
 - push
 - fetch
