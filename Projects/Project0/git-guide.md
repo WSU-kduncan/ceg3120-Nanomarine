@@ -11,24 +11,26 @@ In your repo for this course, create a file named `git-guide.md`. In this file, 
     - list of files in local folder that have changes that need to be committed
   - `git status`
 - clone
-  - Used to target and create a copy of a repository
+  - Used to target and create a copy of a repository.
   - `git clone *repo*`
 - add
-  - Used to add file that will be pushed to repo
+  - Used to add file that will be pushed to repo.
   - `git add *filename*` 
 - rm
-  - Used to remove tracked files from the Git index  
+  - Used to remove tracked files from the Git index  .
   - `git rm`
 - commit
-  - Captures a snapshot of currently staged changes
+  - Captures a snapshot of currently staged changes.
   -  `git commit -m "message"` 
 - push
-  - Uploads local content to remote repository
+  - Uploads local content to remote repository.
   - `git push`  
 - fetch
   - Downloads commits, files, and refs from a remote repository into your local repository.
   -  `git fetch` 
 - merge
+  - Used to join multiple development histories together.
+  - `git merge *branch name*`
 - pull
 - branch
 - checkout
