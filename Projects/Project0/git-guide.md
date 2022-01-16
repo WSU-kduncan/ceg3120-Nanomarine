@@ -14,6 +14,8 @@ In your repo for this course, create a file named `git-guide.md`. In this file, 
   - Used to target and create a copy of a repository
   - `git clone *repo*`
 - add
+  - Used to add file that will be pushed to repo
+  - `git add *filename*` 
 - rm
 - commit
 - push
