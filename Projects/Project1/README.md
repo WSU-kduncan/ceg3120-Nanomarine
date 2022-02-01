@@ -5,5 +5,6 @@ Setup
   
 Usage
   - You type "!hitme" and you are blessed with a Futurama quote, including Benders most famous line "Bite my shiny metal a$$!"
+  
 Research
   - Some things I found would be to buy a rasperry pi or to subscribe to some cloud service to host your script. These would both be viable as long as the cloud service doesn't go down and the pi stays powered.
