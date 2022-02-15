@@ -1,4 +1,15 @@
 Part 1
+1. VPC
+ -
+2. Subnet
+ -
+3. Gateway
+ -
+4. a
+ -
+5. a
+ -
+
 
 Part 2
   - I selected Amazon Linux 2 AMI (HVM) - Kernel 5.10, and the default username is ec2-user. I selected the t2.micro instance type
@@ -9,4 +20,4 @@ Part 2
   - Under the "Configure Security Group" tab, I selected "Select an existing security group" and chose the "	
 Ramsey-sg."
   - After creating an elastic ip, I just told it to associate with the "Ramsey-Instance" as an instance not a network interface
-  - I used "sudo hostnamectl set-hostname Ramsey-AMI --static" to change the hostname. ![proof](https://github.com/WSU-kduncan/ceg3120-Nanomarine/blob/main/Projects/Project02/HostName.PNG)
+  - I used "sudo hostnamectl set-hostname Ramsey-AMI --static" to change the hostname. ![proof](/Projects/Project02/HostName.PNG)
