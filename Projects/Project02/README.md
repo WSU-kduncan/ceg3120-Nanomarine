@@ -1,14 +1,14 @@
 Part 1
 1. VPC [ proof ](/Projects/Project02/VPCCreated.PNG)
- -
+ - A private virtual cloud. 
 2. Subnet [ proof ](/Projects/Project02/SubnetCreated.PNG)
- -
+ - A network inside another network.
 3. Gateway [ proof ](/Projects/Project02/InternetGWCreated.PNG)
- -
+ - Essentially acts as a router.
 4. Route Table [ proof ](/Projects/Project02/RouteTableCreated.PNG)
- -
+ - A set of rules that determine where network traffic is directed.
 5. Security Group [ proof ](/Projects/Project02/SecurityGroupCreated.PNG)
- -
+ - Acts as a firewall
 
 
 Part 2
