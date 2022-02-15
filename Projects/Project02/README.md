@@ -1,13 +1,13 @@
 Part 1
-1. VPC
+1. VPC [ proof ](/Projects/Project02/VPCCreated.PNG)
  -
-2. Subnet
+2. Subnet [ proof ](/Projects/Project02/SubnetCreated.PNG)
  -
-3. Gateway
+3. Gateway [ proof ](/Projects/Project02/InternetGWCreated.PNG)
  -
-4. Route Table
+4. Route Table [ proof ](/Projects/Project02/RouteTableCreated.PNG)
  -
-5. Security Group
+5. Security Group [ proof ](/Projects/Project02/SecurityGroupCreated.PNG)
  -
 
 
