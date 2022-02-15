@@ -5,9 +5,9 @@ Part 1
  -
 3. Gateway
  -
-4. a
+4. Route Table
  -
-5. a
+5. Security Group
  -
 
 
