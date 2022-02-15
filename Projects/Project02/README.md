@@ -19,5 +19,5 @@ Part 2
   - Under the "Add Tags" tab, I added the "Ramsey-Instance" tag.
   - Under the "Configure Security Group" tab, I selected "Select an existing security group" and chose the "	
 Ramsey-sg."
-  - After creating an elastic ip, I just told it to associate with the "Ramsey-Instance" as an instance not a network interface
+  - After creating an elastic ip, I just told it to associate with the "Ramsey-Instance" as an instance not a network interface ![ proof ](/Projects/Project02/FinishedInstance.PNG)
   - I used "sudo hostnamectl set-hostname Ramsey-AMI --static" to change the hostname. ![ proof ](/Projects/Project02/HostName.PNG)
