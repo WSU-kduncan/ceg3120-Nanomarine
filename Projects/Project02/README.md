@@ -1,13 +1,13 @@
 Part 1
-1. VPC [ proof ](/Projects/Project02/VPCCreated.PNG)
+1. VPC [ proof ](/Projects/Project02/Images/VPCCreated.PNG)
  - A private virtual cloud. 
-2. Subnet [ proof ](/Projects/Project02/SubnetCreated.PNG)
+2. Subnet [ proof ](/Projects/Project02/Images/SubnetCreated.PNG)
  - A network inside another network.
-3. Gateway [ proof ](/Projects/Project02/InternetGWCreated.PNG)
+3. Gateway [ proof ](/Projects/Project02/Images/InternetGWCreated.PNG)
  - Essentially acts as a router.
-4. Route Table [ proof ](/Projects/Project02/RouteTableCreated.PNG)
+4. Route Table [ proof ](/Projects/Project02/Images/RouteTableCreated.PNG)
  - A set of rules that determine where network traffic is directed.
-5. Security Group [ proof ](/Projects/Project02/SecurityGroupCreated.PNG)
+5. Security Group [ proof ](/Projects/Project02/Images/SecurityGroupCreated.PNG)
  - Acts as a firewall
 
 
@@ -19,5 +19,5 @@ Part 2
   - Under the "Add Tags" tab, I added the "Ramsey-Instance" tag.
   - Under the "Configure Security Group" tab, I selected "Select an existing security group" and chose the "	
 Ramsey-sg."
-  - After creating an elastic ip, I just told it to associate with the "Ramsey-Instance" as an instance not a network interface ![ proof ](/Projects/Project02/FinishedInstance.PNG)
-  - I used "sudo hostnamectl set-hostname Ramsey-AMI --static" to change the hostname. [ proof ](/Projects/Project02/HostName.PNG)
+  - After creating an elastic ip, I just told it to associate with the "Ramsey-Instance" as an instance not a network interface ![ proof ](/Projects/Project02/Images/FinishedInstance.PNG)
+  - I used "sudo hostnamectl set-hostname Ramsey-AMI --static" to change the hostname. [ proof ](/Projects/Project02/Images/HostName.PNG)
